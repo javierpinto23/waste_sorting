@@ -1,0 +1,6 @@
+train: /Users/pintojav/Library/CloudStorage/OneDrive-adidas/PINTOIL_REPOSITORIES/WASOR/waste_sorting/data/images/train/
+val: /Users/pintojav/Library/CloudStorage/OneDrive-adidas/PINTOIL_REPOSITORIES/WASOR/waste_sorting/data/images/val/
+test: /Users/pintojav/Library/CloudStorage/OneDrive-adidas/PINTOIL_REPOSITORIES/WASOR/waste_sorting/data/images/test/
+
+nc: 7
+names: ['Organic', 'Batteries', 'Glass', 'Metal', 'Paper', 'Plastic', 'Biological']
